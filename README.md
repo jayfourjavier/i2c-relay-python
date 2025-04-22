@@ -55,7 +55,17 @@ We welcome contributions to this project! Here's how you can help:
 
 If you find this library useful and would like to support its development, consider making a donation. Your support helps maintain and improve this project.
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=YOUR_BUTTON_ID)
+
+
+## Star History
+
+<a href="https://www.star-history.com/#jayfourjavier/i2c-relay-python&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jayfourjavier/i2c-relay-python&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jayfourjavier/i2c-relay-python&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jayfourjavier/i2c-relay-python&type=Date" />
+ </picture>
+</a>
 
 ## License
 
